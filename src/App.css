@@ -27,7 +27,15 @@
 .App-link {
   color: #61dafb;
 }
-
+.nava{
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 30%;
+  padding: 2px;
+background-color:turquoise;
+ margin-left: 30px;
+ color: white;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
